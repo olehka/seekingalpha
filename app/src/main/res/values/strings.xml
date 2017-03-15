@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeekingAlpha</string>
+    <string name="error">Error</string>
+    <string name="transition_image">TransitionImage</string>
+    <string name="transition_name">TransitionName</string>
+    <string name="transition_description">TransitionDescription</string>
+</resources>
